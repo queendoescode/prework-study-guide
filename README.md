@@ -22,7 +22,7 @@ and how they are used to create a complete web page.
 
 ## Usage
 
-Open your web browser on the index.html file in the project.
+The Prework Study Guide Webpage is published here: https://queendoescode.github.io/prework-study-guide/
 
 
 Screenshot:
